@@ -69,7 +69,7 @@
     background-color: rgb(27, 118, 230);
     color: #333;
     text-align: center;
-    height: 200px;
+    height: 150px;
     line-height: 60px;
     margin-left: 80px;
     margin-right: 80px;
